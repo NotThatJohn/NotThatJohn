@@ -1,7 +1,7 @@
 <!-- Dynamic Cloud & Network Engineer GitHub Profile -->
 
 <h1 align="center">Hi there😊, My name is Jonathan Bell.</h1>
-<h3 align="center">☁️ Cloud & Network Engineering Student | Passionate About Learning All Technologies | Surveillance Technician 🚀</h3>
+<h3 align="center">☁️ Cloud Networking Engineer Student | Passionate About Learning All Technologies | Surveillance Technician 🚀</h3>
 
 ---
 
@@ -15,7 +15,7 @@
 
 - 🎓 Pursuing my **Bachelor’s in Cloud Network Engineering**
 - ☁️ Exploring **Azure**
-- 🧠 Currently learning **DevOps pipelines & Infrastructure as Code (IaC) | Linux **
+- 🧠 Currently learning **Software Defined Networking and Cloud Security Concepts**
 - 💬 Ask me about **network, security, or surveillance systems**
 - 🌱 Future Goals: **Become a certified cloud architect**
 - ⚡ Fun Fact: I can make clouds rain ☔... digitally!
